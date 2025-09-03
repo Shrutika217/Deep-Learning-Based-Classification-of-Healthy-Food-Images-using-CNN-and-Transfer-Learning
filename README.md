@@ -15,16 +15,6 @@ The goal of this project is to build an image classification system that can dis
 
 Source: [Kaggle Link](https://www.kaggle.com/datasets/raflyramadan/healthy-food/data)
 
-Structure:
-
-healthy_food/
-    ├── train/
-    │   ├── grilled_chicken_breast/
-    │   ├── fruit_salad/
-    │   ├── boiled_eggs/
-    │   └── ...
-
-
 🧠 Models Implemented
 
 Basic CNN – Simple convolutional network for baseline.
