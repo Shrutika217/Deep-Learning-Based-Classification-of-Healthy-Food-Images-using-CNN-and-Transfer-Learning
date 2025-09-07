@@ -57,6 +57,6 @@ Confusion matrices reveal challenges in visually similar categories.
 
 **📄 Report**
 
-A detailed project report with methodology, experiments, and findings is included in the repository (/NNDL_CAC2_Report.pdf)
+A detailed project report with methodology, experiments, and findings is included in the repository ([NNDL_CAC2_Report.pdf](https://github.com/Shrutika217/Deep-Learning-Based-Classification-of-Healthy-Food-Images-using-CNN-and-Transfer-Learning/blob/main/NNDL_CAC2_Report.pdf))
 
 **Developed by Shrutika Gupta | Deep Learning Project** 
